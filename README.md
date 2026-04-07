@@ -12,7 +12,7 @@ Power BI
 - Product Analysis
 
 ### Dashboard
-(Add your screenshot here)
+(![Dashboard](dashboard.png))
 
 ### Insights
 - Electronics gives highest profit
